@@ -9,5 +9,5 @@ el horno está por encima de los 21°C debe apagarse (entendiendo
 que se encuentra en su modo CALIENTE). De esta forma logramos 
 mantener la temperatura del horno en el rango [19, 21] °C.
 
-En esto ejemplo se muestra el uso de las interrupciones externas
+En este ejemplo se muestra el uso de las interrupciones externas
 del uC 8051.
